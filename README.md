@@ -18,6 +18,12 @@ The following diagram illustrates the architecture of the rover inspection robot
 
 ![System Architecture](docs/architecture_diagram.png)
 
+## Simulation
+
+The rover inspection robot running inside Gazebo Sim.
+
+![Rover Simulation](images/rover_simulation.png)
+
 ## Workspace Structure
 
 rover_ws/
