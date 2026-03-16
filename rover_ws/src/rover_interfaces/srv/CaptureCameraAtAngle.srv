@@ -1,0 +1,5 @@
+float64 angle
+---
+sensor_msgs/Image image
+bool success
+string message
