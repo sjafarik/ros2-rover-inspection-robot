@@ -81,9 +81,9 @@ Launch the rover simulation:
 - Python
 - ros_gz_bridge
 
-## rqt_graph
+## ROS graph
 
-![rqt](docs/rqt_graph.png)
+![ros_graph](docs/ros_graph.png)
 ---
 
 This project was developed as a ROS2 robotics portfolio project.
